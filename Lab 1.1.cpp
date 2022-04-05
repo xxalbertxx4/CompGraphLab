@@ -1,7 +1,7 @@
 #include <GL/freeglut.h>
 
 
-static void RenderSceneCB()
+static void RenderSceneCB()//gfgdg
 {
     glClear(GL_COLOR_BUFFER_BIT);
     glutSwapBuffers();
